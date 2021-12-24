@@ -1,7 +1,9 @@
 
 # Linkedin-Ui-Clone
 
-Linkedin ui page clone using html and css
+I created simple Linkedin ui page clone using html and css!
+
+
 ## Author
 
 - [@KaranChandekar](https://www.github.com/KaranChandekar)
